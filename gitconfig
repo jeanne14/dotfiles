@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lapinskajoanna92@gmail.com
+	name = Joanna Wrobel
